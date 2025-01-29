@@ -1,0 +1,38 @@
+---
+title: "Cedric Debes"
+about:
+    template: trestles
+    links:
+        - icon: linkedin
+          text: LinkedIn
+          url: https://www.linkedin.com/in/cedricdebes/
+        - icon: github
+          text: Github
+          url: https://github.com/Cdebes
+        #- text: "{{< ai google-scholar >}} Google Scholar"
+        #  url: https://scholar.google.com/citations?user=X_2G-VsAAAAJ
+#image: img/IMG_5986.jpeg
+comments: false
+---
+
+<script type='application/ld+json'>
+{"@context":"http://www.schema.org","@type":"person","name":"Cedric Debes","jobTitle":"bioinformatician","height":"74 inches","gender":"male","description":"","url":"https://Cdebes.github.io","image":"https://Cdebes.github.io/img/IMG_5986.jpeg","address":{"@type":"PostalAddress","addressLocality":"Zurich","addressRegion":"CO","postalCode":"8050","addressCountry":"Switzerland"},"alumniOf":[{"@type":"CollegeOrUniversity","name":"University of Heidelberg","sameAs":"https://en.wikipedia.org/wiki/University_of_heidelberg"},{"@type":"CollegeOrUniversity","name":"bordeaux University","sameAs":"https://en.wikipedia.org/wiki/bordeaux_University"}],"worksFor":[{"@type":"Organization","name":"Rejuversen"}],"birthDate":"1984-01-10","birthPlace":"Libourne, France","nationality":[{"@type":"Country","name":"French"}]}
+</script>
+
+## Bio
+
+Experienced bioinformatician with over a decade of expertise in omics data analysis, target identification, and data visualization. Proficient in developing bioinformatics tools and managing large-scale biological datasets. Demonstrated leadership in designing workflows, automating pipelines, and collaborating with multidisciplinary teams. 
+
+
+## Selected papers
+
+**Aging-associated changes in transcriptional elongation influence metazoan longevity.** **C. Debès**, A. Papadakis, S. Grönke, Ö. Karalay, L. Tain, A. Mizi, S. Nakamura, O. Hahn, C. Weigelt, N. Josipovic, A. Zirkel, I. Brusius, K. Sofiadis, M. Lamprousi, Y. Lu, W. Huang, R. Esmaillie, T. Kubacki, M. R. Späth, B. Schermer, T. Benzing,  R.U. Müller, A. Antebi, L. Partridge, A. Papantonis, A. Beyer, Nature 2023
+
+**The proteome microenvironment determines the protective effect of preconditioning in cisplatin-induced acute kidney injury.** M.R. Späth, M.P. Bartram, N. Palacio-Escat, K.J.R. Hoyer, **C. Debès**, .F Demir, Kidney international 2019
+
+**Computational approaches for the systematic analysis of aging-associated molecular alterations.** **C. Debès**, A.C. Leote, A. Beyer, Drug Discovery Today: Disease Models, 2018
+
+**Evolutionary optimization of protein folding.** **C. Debès**, M. Wang, Caetano-Anollés, and F. Gräter, PLoS Comput. Biol 2013
+
+
+
